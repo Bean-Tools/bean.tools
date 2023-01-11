@@ -1,0 +1,1 @@
+<h1>You've now been on Bean.Tools</h1>
